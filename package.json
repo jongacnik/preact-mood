@@ -1,0 +1,23 @@
+{
+  "name": "preact-mood",
+  "version": "0.0.1",
+  "description": "Preact cross-fade slideshow",
+  "main": "index.js",
+  "keywords": [
+    "slideshow",
+    "fade",
+    "cross",
+    "mood",
+    "preact"
+  ],
+  "author": "Jon Gacnik <jon@folderstudio.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inline-style": "^2.0.0",
+    "lei-cycle": "^1.0.0",
+    "preact": "^8.1.0",
+    "request-interval": "^2.0.0",
+    "tweezer.js": "^1.4.0"
+  },
+  "devDependencies": {}
+}
