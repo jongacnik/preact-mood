@@ -1,6 +1,6 @@
 # preact-mood
 
-V simple, V moody, V specific x-fade slideshow component
+V simple, V moody, V specific x-fade slideshow component ([**Demo**](glitch.com/edit/#!/preact-mood))
 
 ```
 npm i preact-mood
